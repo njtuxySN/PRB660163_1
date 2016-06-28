@@ -7,7 +7,9 @@
         <client_callable>false</client_callable>
         <description>PRB660163_Script_1 test&#13;
 update 1&#13;
-update 2</description>
+update 2&#13;
+update 3&#13;
+update 4</description>
         <name>PRB660163_Script_1</name>
         <script><![CDATA[var PRB660163_Script_1 = Class.create();
 PRB660163_Script_1.prototype = {
@@ -21,7 +23,7 @@ PRB660163_Script_1.prototype = {
         <sys_created_on>2016-06-28 21:06:28</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>925d796938102200964f91e1660b7349</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>PRB660163_Script_1</sys_name>
         <sys_package display_value="PRB660163" source="x_prb660163">133db16938102200964f91e1660b73ed</sys_package>
         <sys_policy>read</sys_policy>
@@ -29,6 +31,6 @@ PRB660163_Script_1.prototype = {
         <sys_scope display_value="PRB660163">133db16938102200964f91e1660b73ed</sys_scope>
         <sys_update_name>sys_script_include_925d796938102200964f91e1660b7349</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-06-28 21:11:13</sys_updated_on>
+        <sys_updated_on>2016-06-28 21:13:34</sys_updated_on>
     </sys_script_include>
 </record_update>
